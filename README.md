@@ -4,8 +4,6 @@ Like [chnode](https://github.com/phongnh/chnode) but for Fish shell
 
 # Usage
 
-## Install
-
 Manual install
 
 ```
@@ -20,7 +18,7 @@ Install with [fisher](https://github.com/jorgebucaran/fisher)
 fisher add phongnh/chruby-fish
 ```
 
-## Install NodeJS versions
+# Install NodeJS versions
 
 You can use [node-build](https://github.com/nodenv/node-build) to install Node.js
 
