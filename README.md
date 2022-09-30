@@ -15,7 +15,7 @@ cp ~/.chnode/functions/chnode.fish ~/.config/fish/functions/
 Install with [fisher](https://github.com/jorgebucaran/fisher)
 
 ```
-fisher add phongnh/chruby-fish
+fisher add phongnh/chnode-fish
 ```
 
 # Install NodeJS versions
