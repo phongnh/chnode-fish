@@ -1,4 +1,4 @@
-set CHNODE_VERSION '0.1.0'
+set -g CHNODE_VERSION '0.1.0'
 
 set -ge NODES
 test -d "$PREFIX/opt/nodes" ;and set -gx NODES $NODES "$PREFIX"/opt/nodes/*

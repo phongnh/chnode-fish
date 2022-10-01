@@ -42,4 +42,7 @@ function chnode_auto --on-variable PWD -d 'Auto switch node version'
     end
 end
 
-chnode_auto
+function __chnode_auto_init --on-event fish_prompt
+    chnode_auto
+    functions --erase __chnode_auto_init
+end
